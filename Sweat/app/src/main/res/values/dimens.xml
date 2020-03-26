@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="card_view_elevation">6dp</dimen>
+
+    <dimen name="card_view_corner_radius">3dp</dimen>
+
+    <dimen name="card_margin">16dp</dimen>
+
+    <dimen name="font_big">18sp</dimen>
+
+    <dimen name="font_small">12sp</dimen>
+
+    <dimen name="font_medium">16sp</dimen>
+
+    <dimen name="font_very_small">9sp</dimen>
+
+    <dimen name="large_margin">25dp</dimen>
+
+    <dimen name="small_margin">2dp</dimen>
+
+    <dimen name="medium_margin">10dp</dimen>
+
+    <dimen name="tag_view_corner_radius">6dp</dimen>
+
+    <dimen name="tag_padding">8dp</dimen>
+
+    <dimen name="tag_interval">3dp</dimen>
+
+    <dimen name="progressbar_height">10dp</dimen>
+
+    <dimen name="progressbar_width">210dp</dimen>
+
+    <dimen name="progressbar_radius">10dp</dimen>
+
+    <dimen name="retrybutton_width">1dp</dimen>
+
+    <dimen name="retrybutton_margin">80dp</dimen>
+</resources>

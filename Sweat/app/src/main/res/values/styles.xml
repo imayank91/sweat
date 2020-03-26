@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="SelectableItemBackground">
+        <item name="android:theme">@style/AppTheme</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+    </style>
+
+    <style name="progressTextViewStyle">
+        <item name="android:fontFamily">@font/opensans_semibold</item>
+        <item name="android:textColor">@color/colorGrey</item>
+        <item name="android:textSize">@dimen/font_small</item>
+    </style>
+
+    <style name="imageViewStyle">
+        <item name="android:layout_marginTop">@dimen/small_margin</item>
+        <item name="android:layout_marginBottom">@dimen/small_margin</item>
+        <item name="android:layout_marginEnd">@dimen/small_margin</item>
+    </style>
+
+    <style name="textViewStyle">
+        <item name="android:layout_marginTop">@dimen/small_margin</item>
+        <item name="android:layout_marginBottom">@dimen/small_margin</item>
+    </style>
+
+    <style name="programSuggestionTextViewStyle">
+        <item name="android:layout_margin">@dimen/card_margin</item>
+        <item name="android:layout_marginStart">@dimen/card_margin</item>f
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+        <item name="android:textSize">@dimen/font_big</item>
+        <item name="android:textColor">@color/colorBlack</item>
+    </style>
+
+</resources>

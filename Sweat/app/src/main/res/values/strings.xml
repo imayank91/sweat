@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sweat</string>
+    <string name="trainerimage">trainerImage</string>
+    <string name="sweatdrops">sweatDrops</string>
+    <string name="program_suggestions">Program Suggestions</string>
+    <string name="something_went_wrong">Something went wrong..</string>
+    <string name="an_alien_is_probably_blocking_your_signal">An alien is probably blocking your signal</string>
+    <string name="retry">Retry</string>
+    <string name="no_internet">No internet</string>
+
+</resources>

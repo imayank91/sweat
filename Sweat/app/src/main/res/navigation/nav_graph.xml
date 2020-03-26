@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/programSuggestionsFragment">
+
+    <fragment
+        android:id="@+id/programSuggestionsFragment"
+        android:name="com.app.sweat.fragment.ProgramSuggestionsFragment"
+        android:label="fragment_program_suggestions"
+        tools:layout="@layout/fragment_program_suggestions" />
+</navigation>
